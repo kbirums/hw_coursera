@@ -7,7 +7,7 @@ h1 {
 }
 p {
   font-size:14px;
-  color:grey;
+  color:black;
   text-align: center;
 }
 .content{
@@ -17,14 +17,15 @@ p {
   position: relative;
   padding:30px;
   height:130px;
-  background: grey;
-  border:1px solid green;
+  background: white;
+  border:1px solid yellow;
 }
 .title{
   position: absolute;
   top: 0;
   right: 0;
   background: yellow;
+  color:black;
   padding:10px;
   text-align: left;
 }
