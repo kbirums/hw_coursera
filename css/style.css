@@ -9,6 +9,7 @@ p {
   font-size:14px;
   color:grey
 }
-.first{
-  background: grey
+#first{
+  height:30px;
+  background: grey;
 }
