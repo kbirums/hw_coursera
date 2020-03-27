@@ -1,8 +1,14 @@
 body {
   background-color: lightblue;
 }
-
 h1 {
   color: navy;
   margin-left: 20px;
+}
+p {
+  font-size:14px;
+  color:grey
+}
+.first{
+  background: grey
 }
