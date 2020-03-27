@@ -10,6 +10,7 @@ h1 {
 }
 p {
   font-size:14px;
+  text-align: left;
   color:black;
 }
 .content{
@@ -19,11 +20,12 @@ p {
   position: relative;
   padding:30px;
   height: auto;
+
   background: white;
   border:1px solid yellow;
 }
 .title{
-  width:30%;
+  min-width:30%;
   position: absolute;
   top: 0;
   right: 0;
