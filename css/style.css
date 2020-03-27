@@ -32,7 +32,7 @@ max-width: 400px;
   position: relative;
   padding: 25px 5px 5px 5px;
   height: auto;
-  background: white;
+  background: lightpink;
   border:1px solid #bd2f18;
 }
 .small_content2{
@@ -42,7 +42,7 @@ max-width: 400px;
   position: relative;
   padding: 25px 5px 5px 5px;
   height: auto;
-  background: white;
+  background: lightblue;
   border:1px solid #2452b7;
 }
 .small_content3{
@@ -52,7 +52,7 @@ max-width: 400px;
   position: relative;
   padding: 25px 5px 5px 5px;
   height: auto;
-  background: white;
+  background: lightorange;
   border:1px solid #814286;
 }
 .title{
@@ -66,4 +66,5 @@ max-width: 400px;
   background: yellow;
   color: black;
   padding: 5px;
+  border:3px solid black;
 }
