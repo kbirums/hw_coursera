@@ -11,6 +11,9 @@ p {
   text-align: center;
 }
 .content{
+  width:30%;
+  margin:10px;
+  float:left;
   position: relative;
   padding:30px;
   height:130px;
