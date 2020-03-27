@@ -26,7 +26,7 @@ p.teksts{
   margin-right: auto;
 }
 .small_content1{
-max-width: 400px;
+  width: 30%;
   margin:10px;
   float:left;
   position: relative;
@@ -36,7 +36,7 @@ max-width: 400px;
   border:1px solid #bd2f18;
 }
 .small_content2{
-max-width: 400px;
+  width: 30%;
   margin:10px;
   float:left;
   position: relative;
@@ -46,7 +46,7 @@ max-width: 400px;
   border:1px solid #2452b7;
 }
 .small_content3{
-max-width: 400px;
+  width: 30%;
   margin:10px;
   float:left;
   position: relative;
