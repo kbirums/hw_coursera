@@ -10,8 +10,17 @@ p {
   color:grey;
   text-align: center;
 }
-.first{
-  height:30px;
+.content{
+  position: relative;
+  padding:30px;
+  height:130px;
   background: grey;
   border:1px solid green;
+}
+.title{
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: yellow;
+  padding:10px;
 }
