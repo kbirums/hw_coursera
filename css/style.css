@@ -9,7 +9,8 @@ p {
   font-size:14px;
   color:grey
 }
-#first{
+.first{
   height:30px;
   background: grey;
+  border:1px solid green
 }
