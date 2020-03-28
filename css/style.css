@@ -38,7 +38,7 @@ p.teksts{
 #main {
     position: absolute;
     width: 90%;
-    margin: 5%;
+    margin: 10px 5%;
 }
 #first{
   background: #ffe6ea;
