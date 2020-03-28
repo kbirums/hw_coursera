@@ -64,7 +64,7 @@ p.teksts{
     color: white;
     border: 1px solid #565656;
 }
-@media screen and (max-width: 992px){
+@media screen and (min-width:768px) or (max-width: 992px){
   .content{
     width:48%;
   }
