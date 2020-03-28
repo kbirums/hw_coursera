@@ -75,6 +75,9 @@ p.teksts{
   width:98%;
   clear:left;
 }
+h1 {
+    font-size: 30px;
+}
 h2 {
     font-size: 21px;
 }}
@@ -85,7 +88,6 @@ h2 {
 }
 p {
   font-size:14px;
-  text-align: left;
 }
 h1 {
     padding: 0px;
