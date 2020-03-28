@@ -67,4 +67,4 @@ p.teksts{
     border: 2px solid #565656;
 }
 @media screen and (max-width: 992px)
-third.content{width:80%}
+#third.content{width:80%}
