@@ -11,6 +11,7 @@ h1 {
   font-size:1.75rem;
 }
 h2{
+  text-align: center;
   font-size: 1.25rem;
 }
 p {
@@ -83,6 +84,4 @@ p.teksts{
     h1 {
     padding: 5px;
     margin-top: 10px;}
-    .title {
-    text-align: center;
-}}
+}
