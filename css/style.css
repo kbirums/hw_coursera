@@ -71,3 +71,8 @@ p.teksts{
   width:100%;
   clear:left;
 }
+@media screen and (max-width: 767px){
+.content{
+  width:90%;
+  clear:left;
+}
