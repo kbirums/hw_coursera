@@ -41,36 +41,36 @@ p.teksts{
 }
 #first{
   background: #ffe6ea;
-  border: 2px solid #bd2f18;
+  border: 1px solid #bd2f18;
 }
 #second{
   background: #f6ffdd;
-  border: 2px solid #5e6347;
+  border: 1px solid #5e6347;
 }
 #third{
   background: #ffeac4;
-  border: 2px solid #814286;
+  border: 1px solid #814286;
 }
 #beef{
   background: #d43434;
   color: white;
-  border: 2px solid #4e4e4e;
+  border: 1px solid #4e4e4e;
 }
 #chicken{
   background: #7f5040;
   color: white;
-  border: 2px solid #000;
+  border: 1px solid #000;
 }
 #vegan {
     background: #35792e;
     color: white;
-    border: 2px solid #565656;
+    border: 1px solid #565656;
 }
 @media screen and (max-width: 992px){
   .content{
-    width:48%;
+    width:49%;
   }
 .content:nth-child(3){
-  width:80%
+  width:100%
   clear:left;
 }
