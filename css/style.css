@@ -28,10 +28,13 @@ p.teksts{
   background: #ffeac4;
   border: 2px solid #814286;
 }
-.large_content{
+#main{
       width: 80%;
       margin-left: 10%;
       margin-right: 10%;
+      margin: 0;
+      position: absolute;
+      top: 50%;
 }
 .content{
       width: 30%;
