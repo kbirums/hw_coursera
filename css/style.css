@@ -42,30 +42,30 @@ p.teksts{
 }
 #first{
   background: #ffe6ea;
-  border: 1px solid #bd2f18;
+  border: 1px solid black;
 }
 #second{
   background: #f6ffdd;
-  border: 1px solid #5e6347;
+  border: 1px solid black;
 }
 #third{
   background: #ffeac4;
-  border: 1px solid #814286;
+  border: 1px solid black;
 }
 #beef{
   background: #d43434;
   color: white;
-  border: 1px solid #4e4e4e;
+  border: 1px solid black;
 }
 #chicken{
   background: #7f5040;
   color: white;
-  border: 1px solid #000;
+  border: 1px solid black;
 }
 #vegan {
   background: #35792e;
   color: white;
-  border: 1px solid #565656;
+  border: 1px solid black;
 }
 @media screen and (max-width: 991px){
   .content{
