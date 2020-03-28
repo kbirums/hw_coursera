@@ -83,4 +83,12 @@ p.teksts{
 p {
   font-size:14px;
   text-align: left;
-}}
+}
+h1 {
+    text-align: center;
+    color: #1b1b1b;
+    padding: 0px;
+    margin-top: 10px;
+    font-size: 42px;
+}
+}
