@@ -35,6 +35,7 @@ p.teksts{
 }
 #main{
       width: 80%;
+      padding:10px;
 }
 #first{
   background: #ffe6ea;
