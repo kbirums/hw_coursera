@@ -17,6 +17,9 @@ p.teksts{
   position: relative;
   padding: 10px;
 }
+p.footer{
+  text-align: center
+}
 .content  {
   width: 30%;
   margin: 1%;
