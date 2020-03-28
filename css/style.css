@@ -33,9 +33,9 @@ p.teksts{
   font-size: 20px;
   padding: 1px 20px;
 }
-#main{
-      width: 80%;
-      padding:10px;
+#main {
+    width: 90%;
+    margin: 5%;
 }
 #first{
   background: #ffe6ea;
